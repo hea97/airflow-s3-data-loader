@@ -1,0 +1,6 @@
+apache-airflow
+pandas
+yfinance
+boto3
+python-dotenv
+pytest
